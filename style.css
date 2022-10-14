@@ -1,0 +1,110 @@
+@font-face {
+    font-family: header;
+    src: url(./Jost/static/Jost-Bold.ttf);
+}
+@font-face {
+    font-family: semibold;
+    src: url(./Jost/static/Jost-SemiBold.ttf);
+}
+@font-face {
+    font-family: h4;
+    src: url(./Jost/static/Jost-Light.ttf);
+}
+.container{
+    width: 1000px;
+    height: 600px;
+    margin: auto;
+    padding-left: 110px;
+    margin-top: 150px;
+}
+.box1{
+    margin-top: 10px;
+}
+.box2{
+    margin-top: 5px;
+}
+i{
+    font-size: 60px;
+}
+a{
+    text-decoration: none;
+}
+a:link{
+    color: black;
+}
+a:visited{
+    color: black;
+}
+.header{
+    font-size: 30px;
+    font-family: header;
+    margin-bottom: -30px;
+    margin-top: -30px;
+}
+h4{
+    margin-top: -40px;
+    font-family: h4;
+}
+h3{
+    font-family: h4;
+}
+.laptop{
+    border-radius: 10px;
+    display: inline-block;
+    width: 190px;
+    height: 100px;
+    padding: 50px;
+    background-color: rgb(198, 195, 195);
+}
+.iphone{    
+    border-radius: 10px;
+    display: inline-block;
+    width: 190px;
+    height: 100px;
+    padding: 50px;
+    background-color: rgb(198, 195, 195);
+}
+.ipad{
+    border-radius: 10px;
+    display: inline-block;
+    width: 190px;
+    height: 100px;
+    padding: 50px;
+    background-color: rgb(198, 195, 195);
+}
+.mac{
+    border-radius: 10px;
+    display: inline-block;
+    width: 190px;
+    height: 100px;
+    padding: 50px;
+    background-color: rgb(198, 195, 195);
+}
+.desktop{
+    border-radius: 10px;
+    display: inline-block;
+    width: 190px;
+    height: 100px;
+    padding: 50px;
+    background-color: rgb(198, 195, 195);
+}
+.smartphone{
+    border-radius: 10px;
+    display: inline-block;
+    width: 190px;
+    height: 100px;
+    padding: 50px;
+    background-color: rgb(198, 195, 195);
+}
+#hover:hover{
+    background-color: black;
+    color: white;
+}
+.dev{
+    width: 200px;
+    height: 90px;
+    text-align: center;
+    margin-left: 340px;
+    margin-top: 30px;
+    font-family: semibold;
+}
